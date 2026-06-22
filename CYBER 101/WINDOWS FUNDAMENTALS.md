@@ -69,9 +69,11 @@ User accounts can be one of two types on a typical local Windows system:
 •The user account type will determine what actions the user can perform on that specific Windows system. 
 
 ➡An Administrator can make changes to the system: add users, delete users, modify groups, modify settings on the system, etc. 
+
 ➡A Standard User can only make changes to folders/files attributed to the user & can't perform system-level changes, such as install programs.
 
 •Way to access this information, and then some, is using Local User and Group Management. =====lusrmgr.msc
+
 •Username and password for the standard user. It's visible in lusrmgr.msc 
 
 ----------
@@ -108,7 +110,6 @@ User accounts can be one of two types on a typical local Windows system:
 -------------
 
 ### TASK MANAGER
-
 •The Task Manager provides information about the applications and processes currently running on the system. Other information is also available, such as how much CPU and RAM are being utilized, which falls under Performance. 
 ➡can access the Task Manager by right-clicking the taskbar. 
 

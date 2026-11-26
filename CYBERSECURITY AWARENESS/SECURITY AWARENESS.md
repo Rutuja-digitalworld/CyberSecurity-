@@ -1,14 +1,7 @@
 # **🛡️ SECURITY AWARENESS**
 
 
-
-TASK 01–02
-
-TryHackMe Notes
-
-
-
-## **📌 TASK 1 — What is Security Awareness?**
+# 1. What is Security Awareness?**
 
 **Security Awareness:** Knowledge of cyber threats, risks and safe practices to protect individuals and organizations from cyberattacks.
 
@@ -31,7 +24,7 @@ Key point: Humans can become the weakest link in organizational security.
 
 **EVERYONE!** It is everyone's responsibility, regardless of their job role, because anyone with organizational access or knowledge can become a target for cybercriminals.
 
-## **📌 TASK 2 — Why Security Awareness is Essential?**
+# **📌2. Why Security Awareness is Essential?**
 
 ### **1. Growing Cybersecurity Risks**
 
@@ -83,8 +76,52 @@ Reduction in attempted phishing attacks
 
 Reduction in fraud attacks
 
-
-
-TASK 01 & 02 COMPLETE
-
 **Remember:** Security Awareness = Knowledge + Responsibility + Cyber Hygiene.
+
+# 3.# **🔐 TASK 3 — Data and Account Security**
+
+### **1. Sensitive Data**
+
+Sensitive data includes:
+
+- Personal information
+- Customer data
+- Financial reports
+- Company details
+
+**Main Objective of Cybercriminals:** Obtaining sensitive data or holding it for ransom.
+
+### **2. Data Handled by Different Departments**
+
+- **HR Department:** Holds employee details and personal information.
+- **Finance Department:** Holds customers' credit card and bank account details.
+
+**Note:** Protecting sensitive data is important for both the organization and its clients/customers.
+
+### **3. Understanding Data Protection**
+
+To secure data, we need to understand:
+
+1. **Type of Data:** What type of information we have.
+2. **Why to Protect:** Why that information needs protection.
+3. **Security Methods:** Methods used to secure the data.
+
+### **4. Top 10 Historical Data Breaches**
+
+The diagram illustrates:
+
+- Top 10 data breaches involving large companies.
+- Number of people affected.
+- Types of data leaked.
+
+<img width="997" height="952" alt="image" src="https://github.com/user-attachments/assets/b2495302-731f-4f7e-b4c1-a7118387a291" />
+
+## **Questions & Answers**
+
+1\. **How many people were affected by eBay being hacked?**
+
+**Answer:** 145 million people.
+
+2\. **What data was leaked from PlayStation being hacked?**
+
+**Answer:** Names, addresses, email addresses and birth dates.

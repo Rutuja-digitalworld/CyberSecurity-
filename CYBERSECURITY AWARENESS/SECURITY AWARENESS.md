@@ -1,7 +1,7 @@
 # **🛡️ SECURITY AWARENESS**
 
 
-# 1. What is Security Awareness?**
+# TASK 1. What is Security Awareness?
 
 **Security Awareness:** Knowledge of cyber threats, risks and safe practices to protect individuals and organizations from cyberattacks.
 
@@ -24,7 +24,9 @@ Key point: Humans can become the weakest link in organizational security.
 
 **EVERYONE!** It is everyone's responsibility, regardless of their job role, because anyone with organizational access or knowledge can become a target for cybercriminals.
 
-# **📌2. Why Security Awareness is Essential?**
+-------------------------------------
+
+# 📌TASK 2. Why Security Awareness is Essential?
 
 ### **1. Growing Cybersecurity Risks**
 
@@ -78,7 +80,9 @@ Reduction in fraud attacks
 
 **Remember:** Security Awareness = Knowledge + Responsibility + Cyber Hygiene.
 
-# 3.# **🔐 TASK 3 — Data and Account Security**
+------------------
+
+# **🔐 TASK 3 — Data and Account Security**
 
 ### **1. Sensitive Data**
 

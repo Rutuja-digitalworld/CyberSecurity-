@@ -175,3 +175,32 @@ Visit: [https://haveibeenpwned.com/](https://haveibeenpwned.com/?utm_source=chat
 - If breached, change the affected account's password.
 
 <img width="1431" height="886" alt="image" src="https://github.com/user-attachments/assets/0c506371-b1b7-4637-a25c-c4829c963386" />
+------------------------
+# **🎯 TASK 5 — Cyber Threat Actors**
+
+### **1. Cyber Threat**
+
+A **Cyber Threat** is the possibility of a malicious attempt to damage or disrupt a computer network or system.
+
+### **2. Cyber Threat Actors**
+
+**Cyber Threat Actors** are individuals or groups who maliciously exploit system security weaknesses to gain unauthorized access to victim data, computers, or networks.
+
+### **3. Types of Cyber Threat Actors & Their Motivations**
+
+<img width="665" height="441" alt="image" src="https://github.com/user-attachments/assets/999774e6-bce4-47ec-b381-6a19556b3f46" />
+
+### **💻 TASK 5 — Questions & Answers**
+
+**Q1. Who would most likely be interested in exploiting a business?**
+
+**Answer:** Cybercriminals (Financially motivated).
+
+**Q2. Who would most likely be interested in exploiting a personal computer for fun?**
+
+**Answer:** Thrill-seekers (Motivated by satisfaction).
+
+**Q3. Who would most likely be interested in exploiting a website to deliver a message?**
+
+**Answer:** Hacktivists (Ideologically motivated).
+

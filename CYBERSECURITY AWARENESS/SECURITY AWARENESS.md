@@ -24,8 +24,8 @@ Key point: Humans can become the weakest link in organizational security.
 
 **EVERYONE!** It is everyone's responsibility, regardless of their job role, because anyone with organizational access or knowledge can become a target for cybercriminals.
 
+<hr style="height: 3px; background-color: #555; border: none;">
 
--------------------------------------
 # 📌TASK 2. Why Security Awareness is Essential?
 
 ### **1. Growing Cybersecurity Risks**
@@ -80,7 +80,8 @@ Reduction in fraud attacks
 
 **Remember:** Security Awareness = Knowledge + Responsibility + Cyber Hygiene.
 
-------------------
+<hr style="height: 3px; background-color: #555; border: none;">
+
 # **🔐 TASK 3 — Data and Account Security**
 
 ### **1. Sensitive Data**

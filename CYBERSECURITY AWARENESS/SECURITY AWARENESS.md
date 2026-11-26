@@ -130,7 +130,7 @@ The diagram illustrates:
 
 **Answer:** Names, addresses, email addresses and birth dates.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # **🔐 TASK 4 — Check if You've Ever Been Part of a Cyber Breach**
 
 ### **1. Impact of Cyber Threats**

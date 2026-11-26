@@ -129,3 +129,48 @@ The diagram illustrates:
 2\. **What data was leaked from PlayStation being hacked?**
 
 **Answer:** Names, addresses, email addresses and birth dates.
+
+# **🔐 TASK 4 — Check if You've Ever Been Part of a Cyber Breach**
+
+### **1. Impact of Cyber Threats**
+
+Cyber threats increased significantly during the pandemic, mainly due to the rise in **work from home (WFH)**.
+
+### **2. Consequences of a Successful Cyberattack**
+
+- **Legal Penalties:** Lawsuits and GDPR-related penalties.
+- **Reputational Damage:** Damage to an organization's reputation.
+- **Disruption to Trading:** Interruption of business operations.
+- **Financial Loss:** Loss of money due to cyberattacks.
+- **Loss of Sensitive Data:** Exposure or theft of confidential information.
+
+### **3. Targeted Social Engineering & Phishing**
+
+Cybercriminals can use information obtained from company data breaches to perform:
+
+- Targeted Social Engineering Attacks
+- Phishing Campaigns
+
+### **4. Have I Been Pwned (HIBP)**
+
+**Website:** [https://haveibeenpwned.com/](https://haveibeenpwned.com/?utm_source=chatgpt.com)
+
+- A service that tracks leaked information from data breaches.
+- Helps users check whether their personal information has been exposed in previous data breaches.
+- Users can search using their **email address or phone number**.
+
+### **5. What to Do If Your Account Was Breached?**
+
+1. Don't panic.
+2. Check which account was affected.
+3. Change the breached account's password.
+
+### **💻 PRACTICAL TASK**
+
+Visit: [https://haveibeenpwned.com/](https://haveibeenpwned.com/?utm_source=chatgpt.com)
+
+- Enter your email address or phone number.
+- Check whether your information has appeared in a data breach.
+- If breached, change the affected account's password.
+
+<img width="1431" height="886" alt="image" src="https://github.com/user-attachments/assets/0c506371-b1b7-4637-a25c-c4829c963386" />
